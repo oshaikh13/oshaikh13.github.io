@@ -1,0 +1,53 @@
+- institution: Georgia Institute of Technology
+  location: "Atlanta, GA"
+  position: Undergraduate Research Assistant
+  group: Polo Club of Data Science
+  year: "Present —"
+  year-extra: "Aug. 2018"
+  mentors: 
+    - Duen Horng (Polo) Chau
+    - Diyi Yang
+  advisor: true
+  description: "Working at the intersection of HCI and Machine Learning; building interactive interfaces that help explain ML models."
+  institution-url: https://gatech.edu
+  group-url: https://poloclub.github.io
+  type: academic
+
+- institution: University of Southern California
+  location: "Marina del Rey, CA (remote)"
+  position: Research Intern
+  group: "Natural Language Group"
+  year: "Summer 2020"
+  mentors:
+    - Jonathan May
+  description: "Research on understanding and using monolingual embeddings to improve transfer learning in neural machine translation tasks."
+  institution-url: https://usc.edu
+  group-url: https://isi.usc.edu
+  type: academic
+
+- institution: Square
+  location: "Atlanta, GA"
+  position: Applied Research Intern
+  group: "Commerce Machine Learning"
+  year: "Summer 2019"
+  mentors:
+    - Marsal Gavalda
+  description: "Built a trending item identification platform (Square Trends), classified items into tax categories. Presented to CEO (Jack Dorsey) + Core after garnering attention on Trends."
+  institution-url: https://square.com
+  group-url: https://square.com
+  type: industry
+
+- institution: Cornell University
+  location: "Ithaca, NY (remote)"
+  position: Visiting Research Assistant
+  group: Virtual Embodiment Lab
+  year: "May 2018 —"
+  year-extra: "Aug. 2016"
+  mentors: 
+    - Andrea Stevenson Won
+  advisor: true
+  description: "Understanding synchrony in virtual environments; built movement trackers for networked VR environments, visualized interpersonal synchrony."
+  institution-url: https://cornell.edu
+  group-url: https://virtualembodimentlab.com
+  type: academic
+

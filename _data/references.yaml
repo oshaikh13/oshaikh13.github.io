@@ -1,0 +1,26 @@
+- name: Polo Chau
+  position: Associate Professor
+  group: School of Computational Science and Engineering
+  institution: Georgia Institute of Technology
+  location: Atlanta, GA, USA
+  phd: true
+  website: "cc.gatech.edu/~dchau/"
+  url: "https://cc.gatech.edu/~dchau/"
+
+- name: Diyi Yang
+  position: Assistant Professor
+  group: School of Interactive Computing
+  institution: Georgia Institute of Technology
+  location: Atlanta, GA, USA
+  phd: true
+  website: "cc.gatech.edu/~dyang888/"
+  url: "https://www.cc.gatech.edu/~dyang888/"
+
+- name: Andrea Won
+  position: Assistant Professor
+  group: Department of Communication
+  institution: Cornell University
+  location: Ithaca, NY, USA
+  phd: true
+  website: "communication.cals.cornell.edu/people/andrea-won/"
+  url: "https://communication.cals.cornell.edu/people/andrea-won/"
