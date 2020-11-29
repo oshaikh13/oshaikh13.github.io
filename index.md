@@ -20,7 +20,7 @@ title: Home
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
-		Currently, I'm drawn to research that aims to identify/explain complexities to humans in intelligent systems that affect humans, especially in systems that (attempt to) understand language.
+		I'm drawn to research that aims to identify/explain complexities in intelligent systems that affect people, <em>to people</em>.  
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
