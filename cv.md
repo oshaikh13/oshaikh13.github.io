@@ -104,13 +104,6 @@ Currently, I'm drawn to research that aims to identify/explain complexities to h
 {% include cv/teaching.html teach=teach %}
 {% endfor %} -->
 
-
-<!-- ## Technology Skills
-
-{% for skill in site.data.skills %}
-{% include cv/skill.html skill=skill %}
-{% endfor %} -->
-
 ## Service
 
 <!-- <div class="cv-service-title"><b>Organizer</b></div>
@@ -137,6 +130,13 @@ Currently, I'm drawn to research that aims to identify/explain complexities to h
 {% for member in site.data.memberships %}
 {% include cv/member.html member=member %}
 {% endfor %}
+
+## Technology Skills
+
+{% for skill in site.data.skills %}
+{% include cv/skill.html skill=skill %}
+{% endfor %}
+
 
 ## References
 
