@@ -16,7 +16,7 @@ venue-shorthand: VIS
 location: Salt Lake City, UT, USA
 year: 2020
 url: /papers/people-map
-pdf: https://arxiv.org/abs/2004.15004
+pdf: https://arxiv.org/abs/2009.00091
 code: https://github.com/poloclub/people-map
 demo: https://poloclub.github.io/people-map/
 highlight: Best Poster, Honorable Mention
